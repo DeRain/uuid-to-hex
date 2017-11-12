@@ -1,5 +1,7 @@
 # Convert UUID string to hex string
 
+[![Build Status](https://travis-ci.org/DeRain/uuid-to-hex.svg?branch=master)](https://travis-ci.org/DeRain/uuid-to-hex)
+
 ## Examples of using
 
 ```javascript

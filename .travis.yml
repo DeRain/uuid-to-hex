@@ -4,3 +4,9 @@ node_js:
 cache:
   directories:
     - "node_modules"
+notifications:
+  email:
+    recipients:
+      - derainberk@gmail.com
+    on_success: never
+    on_failure: always
