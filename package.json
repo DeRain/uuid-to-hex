@@ -1,6 +1,6 @@
 {
   "name": "uuid-to-hex",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert uuid string representation into hex string",
   "main": "index.js",
   "scripts": {
