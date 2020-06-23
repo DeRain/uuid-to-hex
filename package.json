@@ -1,10 +1,10 @@
 {
   "name": "uuid-to-hex",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Convert uuid string representation into hex string",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha test"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
@@ -15,12 +15,12 @@
     "hex"
   ],
   "dependencies": {
-    "uuid-parse": "^1.0.0",
-    "validator": "^9.1.1"
+    "uuid-parse": "^1.1.0",
+    "validator": "^9.4.1"
   },
   "devDependencies": {
-    "chai": "^4.1.2",
-    "mocha": "^4.0.1"
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
   },
   "author": "Kirill Beresnev <derainberk@gmail.com>",
   "license": "MIT"
